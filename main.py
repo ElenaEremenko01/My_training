@@ -16,7 +16,8 @@ print(( 2 * 2 + 2 ) == ( 2 * ( 2 + 2 )))
 
 # 4th program
 
-print( int(float( "123.456" ) * 10 ) % 10)
+print( int(float( "123.456" ) * 10 ) / 10)
 
 print('Hello world')
 print('Hello')
+print('Elena')
